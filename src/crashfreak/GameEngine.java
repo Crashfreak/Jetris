@@ -1,3 +1,4 @@
+package crashfreak;
 /* Programmer: CrashFr[e]ak aka Michael Cuthbert
  * Date: 29/05/01
  *

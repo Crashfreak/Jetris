@@ -1,3 +1,5 @@
+package crashfreak;
+
 /* Programmer:  CrashFr[e]ak aka Michael Cuthbert
  * Date: Sunday 20th May 2001
  *
