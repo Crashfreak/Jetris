@@ -1,7 +1,7 @@
 Jetris
 ======
 
-A small Tetris clone I built in around 2001 for fun during a one week break I had.
+A small Tetris clone I built in around 2000 for fun during a one week break I had.
 
 To Play you need Java installed.<br/>
 To Compile:<br/>
